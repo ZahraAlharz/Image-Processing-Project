@@ -1,0 +1,11 @@
+
+
+nc: 5
+names: ['crack', 'gas', 'leak', 'no leak', 'water']
+
+roboflow:
+  workspace: gas-leak
+  project: pipeline-leak-prediction
+  version: 8
+  license: CC BY 4.0
+  url: https://universe.roboflow.com/gas-leak/pipeline-leak-prediction/dataset/8
